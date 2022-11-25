@@ -1,5 +1,11 @@
 ## Getting Started
 
+### **Environment Variables**
+
+Use environment variables in your next.js project for server side, client or both. An example env file is provided in [here](.env.example.txt)
+
+create a file `.env` and copy the contents of [.env.example.txt](.env.example.txt) into it
+
 ## Running locally in development mode
 
 To get started, just clone the repository and run `npm install && npm run dev`:
