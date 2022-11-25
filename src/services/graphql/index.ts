@@ -6,8 +6,8 @@ const client = new ApolloClient({
 });
 
 export const GET_COUNTRIES = gql`
-  query Countries {
-    countries {
+  query GetCountries($code: String) {
+    countries(filter: { code: { regex: $code } }) {
       code
       name
     }
