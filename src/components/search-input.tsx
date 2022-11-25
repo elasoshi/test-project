@@ -12,7 +12,7 @@ export const SearchInput = (props: Props) => {
           onChange={props.onChange}
           type="text"
           className="px-4 py-2"
-          placeholder="filter by code"
+          placeholder="Search by code"
         />
       </div>
     </div>
