@@ -1,6 +1,6 @@
 ## Getting Started
 
-Demo: [https://test-project-kohl.vercel.app](https://test-project-kohl.vercel.app/) https://test-project-kohl.vercel.app/
+Demo: [https://test-project-kohl.vercel.app](https://test-project-kohl.vercel.app/)
 
 ### **Environment Variables**
 
